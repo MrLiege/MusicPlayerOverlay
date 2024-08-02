@@ -14,9 +14,9 @@ struct ContentView: View {
             Spacer()
             HStack {
                 RepeatButtonView()
-                BackwardButtonView()
+                ForwardButtonView(isForward: false)
                 PlayButtonView()
-                ForwardButtonView()
+                ForwardButtonView(isForward: true)
                 ShuffleButtonView()
             }
             VolumeControllerView()

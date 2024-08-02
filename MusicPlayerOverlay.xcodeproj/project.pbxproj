@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		0C50F9042C5BD8F000E6090F /* MusicButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C50F9032C5BD8F000E6090F /* MusicButtonStyle.swift */; };
-		0C50F9082C5C2AF200E6090F /* BackwardButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C50F9072C5C2AF200E6090F /* BackwardButtonView.swift */; };
 		0C50F90A2C5C2B6D00E6090F /* ForwardButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C50F9092C5C2B6D00E6090F /* ForwardButtonView.swift */; };
 		0C50F90C2C5C2D1C00E6090F /* RepeatButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C50F90B2C5C2D1C00E6090F /* RepeatButtonView.swift */; };
 		0C50F90E2C5C414F00E6090F /* ShuffleButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C50F90D2C5C414F00E6090F /* ShuffleButtonView.swift */; };
@@ -22,7 +21,6 @@
 
 /* Begin PBXFileReference section */
 		0C50F9032C5BD8F000E6090F /* MusicButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicButtonStyle.swift; sourceTree = "<group>"; };
-		0C50F9072C5C2AF200E6090F /* BackwardButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackwardButtonView.swift; sourceTree = "<group>"; };
 		0C50F9092C5C2B6D00E6090F /* ForwardButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForwardButtonView.swift; sourceTree = "<group>"; };
 		0C50F90B2C5C2D1C00E6090F /* RepeatButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatButtonView.swift; sourceTree = "<group>"; };
 		0C50F90D2C5C414F00E6090F /* ShuffleButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShuffleButtonView.swift; sourceTree = "<group>"; };
@@ -70,7 +68,6 @@
 				0C65BC932C5A81F70046B20A /* ContentView.swift */,
 				0C50F9112C5C5AAE00E6090F /* PlayButtonView.swift */,
 				0C50F90F2C5C54CC00E6090F /* VolumeControllerView.swift */,
-				0C50F9072C5C2AF200E6090F /* BackwardButtonView.swift */,
 				0C50F90B2C5C2D1C00E6090F /* RepeatButtonView.swift */,
 				0C50F90D2C5C414F00E6090F /* ShuffleButtonView.swift */,
 				0C50F9092C5C2B6D00E6090F /* ForwardButtonView.swift */,
@@ -161,7 +158,6 @@
 				0C50F9042C5BD8F000E6090F /* MusicButtonStyle.swift in Sources */,
 				0C65BC942C5A81F70046B20A /* ContentView.swift in Sources */,
 				0C50F90E2C5C414F00E6090F /* ShuffleButtonView.swift in Sources */,
-				0C50F9082C5C2AF200E6090F /* BackwardButtonView.swift in Sources */,
 				0C50F9102C5C54CC00E6090F /* VolumeControllerView.swift in Sources */,
 				0C50F90C2C5C2D1C00E6090F /* RepeatButtonView.swift in Sources */,
 				0C50F9122C5C5AAE00E6090F /* PlayButtonView.swift in Sources */,
